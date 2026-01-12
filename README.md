@@ -58,7 +58,6 @@ Tools & Technologies
 7. Identified major drop-off points
 
 ---
-
 Key Insights
 - The **largest drop-off** occurs between **Product View and Checkout**
 - Only a small fraction of users who visit the site complete a purchase
