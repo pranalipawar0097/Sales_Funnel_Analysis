@@ -48,7 +48,7 @@ Tools & Technologies
 
 ---
 
-## 🔍 Methodology
+Methodology
 1. Loaded multiple datasets representing funnel stages
 2. Assigned a funnel stage label to each dataset
 3. Selected only relevant columns (`user_id`, `stage`)
