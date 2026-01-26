@@ -1,4 +1,4 @@
-Sales Funnel Analysis using Python
+## Sales Funnel Analysis using Python
 
 Project Overview
 This project analyzes an e-commerce sales funnel to understand how users move
@@ -8,7 +8,7 @@ provides actionable business insights.
 
 ---
 
-Business Problem
+## Business Problem
 In e-commerce platforms, a large number of users visit the website, but only a
 small percentage complete a purchase. Understanding where users drop off in the
 sales funnel allows businesses to optimize user experience, improve conversions,
@@ -16,7 +16,7 @@ and increase revenue.
 
 ---
 
-Dataset
+## Dataset
 - Source: Kaggle – Sales Funnel User Drop-off Dataset  
 - Type: Event-based user activity data  
 - Files Used:
@@ -29,7 +29,7 @@ Each file represents a different stage of the funnel.
 
 ---
 
-Funnel Stages
+## Funnel Stages
 | Stage Name        | Description                  |
 |-------------------|------------------------------|
 | Visit             | User visits the home page    |
@@ -39,7 +39,7 @@ Funnel Stages
 
 ---
 
-Tools & Technologies
+## Tools & Technologies
 - Python  
 - Pandas  
 - NumPy  
@@ -48,7 +48,7 @@ Tools & Technologies
 
 ---
 
-Methodology
+## Methodology
 1. Loaded multiple datasets representing funnel stages
 2. Assigned a funnel stage label to each dataset
 3. Selected only relevant columns (`user_id`, `stage`)
@@ -58,21 +58,21 @@ Methodology
 7. Identified major drop-off points
 
 ---
-Key Insights
+## Key Insights
 - The **largest drop-off** occurs between **Product View and Checkout**
 - Only a small fraction of users who visit the site complete a purchase
 - Checkout is the most critical stage for conversion improvement
 
 ---
 
-Business Recommendations
+## Business Recommendations
 - Simplify the checkout process to reduce friction
 - Retarget users who viewed products but did not proceed to checkout
 - Improve payment UX to increase completed purchases
 
 ---
 
-How to Run the Project
+## How to Run the Project
 1. Clone this repository
 2. Ensure all CSV files are in the same directory as the notebook
 3. Open `sales_funnel_analysis.ipynb`
@@ -80,7 +80,7 @@ How to Run the Project
 
 ---
 
-Conclusion
+## Conclusion
 This project demonstrates how Python and Pandas can be used to perform
 end-to-end funnel analysis, transform raw event data into insights, and support
 data-driven business decisions.
