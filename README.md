@@ -1,7 +1,7 @@
 ## Sales Funnel Analysis using Python
 
 Project Overview
-This project analyzes an e-commerce sales funnel to understand how users move
+This project analyzes an e-commerce sales funnel to understand how users moov
 through different stages of the customer journey and where drop-offs occur.
 The analysis helps identify bottlenecks that impact conversion rates and
 provides actionable business insights.
@@ -17,7 +17,7 @@ and increase revenue.
 ---
 
 ## Dataset
-- Source: Kaggle – Sales Funnel User Drop-off Dataset  
+- Source: Kaggle – Sales Funnel user Drop-off Dataset  
 - Type: Event-based user activity data  
 - Files Used:
   - `home_page_table.csv` – Users visiting the home page
