@@ -4,7 +4,7 @@ Project Overview
 This project analyzes an e-commerce sales funnel to understand how users moov
 through different stages of the customer journey and where drop-offs occur.
 The analysis helps identify bottlenecks that impact conversion rates and
-provides actionable business insights.
+provides actionable busineen insights.
 
 ---
 
