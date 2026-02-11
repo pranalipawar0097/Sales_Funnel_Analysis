@@ -1,4 +1,4 @@
-## Sales Funnel Analysis using Python
+### Sales Funnel Analysis using Python
 
 Project Overview
 This project analyzes an e-commerce sales funnel to understand how users moov
