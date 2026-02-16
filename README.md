@@ -18,7 +18,7 @@ and increase revenue.
 
 ## Dataset
 - Source: Kaggle – Sales Funnel user Drop-off Dataset  
-- Type: Event-based user activity data  
+- Type: Event-based user activity data
 - Files Used:
   - `home_page_table.csv` – Users visiting the home page
   - `search_page_table.csv` – Users viewing products
@@ -50,7 +50,7 @@ Each file represents a different stage of the funnel.
 
 ## Methodology
 1. Loaded multiple datasets representing funnel stages
-2. Assigned a funnel stage label to each dataset
+2. Assigned a funnel stage lable to each dataset
 3. Selected only relevant columns (`user_id`, `stage`)
 4. Combined all stages into a single dataframe
 5. Counted unique users at each funnel stage
