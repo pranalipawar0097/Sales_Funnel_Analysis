@@ -9,7 +9,7 @@ provides actionable busineen insights.
 ---
 
 ## Business Problems
-In e-commerce platforms, a large number of users visit the website, but only a
+In e-commerce platforms, a large number of user visit the website, but only a
 small percentage complete a purchase. Understanding where users drop off in the
 sales funnel allows businesses to optimize user experience, improve conversions,
 and increase revenue.
